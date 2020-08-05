@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ProceduralWaterMaterial
+  m_Name: WaterMaterial
   m_Shader: {fileID: -6465566751694194690, guid: ee738fb1b9565d245adfb580b33cb00f,
     type: 3}
   m_ShaderKeywords: 

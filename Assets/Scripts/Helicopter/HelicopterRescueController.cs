@@ -8,7 +8,6 @@ public class HelicopterRescueController : MonoBehaviour
 
     [Tooltip("How many humans can helicopter fit.")]
     [SerializeField] private int _helicopterCapacity;
-    [SerializeField] private RescueRopeController _ropeController;
 
     public int HumansInHelicopter { get; private set; }
     public int HelicopterCapacity => _helicopterCapacity;
